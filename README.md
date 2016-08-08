@@ -1,7 +1,28 @@
 # documentManagement
 
+
+Copyright (c) 2016 Priyanka Mudgal
+
+This Project is document Management System which gives the facility to upload/store/download the documents.
+
+This code is available under the "MIT License". Please see the file LICENSE in this distribution for license terms.
 This document contains the instructions to deploy & start  the project.
 
+
+
+PROJECT DESCRIPTION: This project is a document Management System where the users are able to login with their login credentials, can upload the documents and once they are uploaded, the documents are stored in the repository. Later the user can see the complete list of documents they have uploaded and they have the facility to download the documents on their local systems.
+
+Author: Priyanka Mudgal
+
+PROJECT NAME: Document Management System
+
+CONTACT INFORMATION: pmudgal@pdx.edu
+
+License Information: Please check the below link to get the file license in this distribution. Link:https://github.com/prmudgal/documentManagement/blob/opensource/LICENSE
+
+Source Code: The source code can be found at the following repository Link for repository: https://github.com/prmudgal/documentManagement/tree/opensource/MaProDMS
+
+BUILD INSTRUCTIONS:
 
 Softwares/Installations required:
 1) Download mongodb from "https://www.mongodb.com/download-center#community"
@@ -35,3 +56,12 @@ To start Tomcat Server:
 
 To start the welcome page:
 1) Type url "localhost:8080/MaProDMS/cmslogin".
+
+
+
+Future Enhancements:
+1) To make Vaidations in place (user login).
+2) Make UI a bit fancy to use.
+
+
+FINAL PRESENTATION: Working on it.
