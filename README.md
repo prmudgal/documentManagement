@@ -6,7 +6,7 @@ Copyright (c) 2016 Priyanka Mudgal
 This Project is document Management System which gives the facility to upload/store/download the documents.
 
 This code is available under the "MIT License". Please see the file LICENSE in this distribution for license terms.
-This document contains the instructions to deploy & start  the project.
+This document contains the instructions to install the required softwares, deploy & start  the project.
 
 
 
