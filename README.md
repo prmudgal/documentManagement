@@ -24,4 +24,4 @@ https://github.com/prmudgal/documentManagement/blob/master/User_Manual.txt
 
 Future Enhancements: 1) To make Vaidations in place (user login). 2) Make UI a bit fancy to use.
 
-FINAL PRESENTATION: Working on it.
+FINAL PRESENTATION: https://github.com/prmudgal/documentManagement/blob/master/MaProDMS_Presentation.odp
