@@ -31,5 +31,7 @@ Future Enhancements:
 1) To make Vaidations in place (user login).
 2) Make UI a bit fancy to use.
 
+IssueTracker: https://github.com/prmudgal/documentManagement/blob/master/Issue_Tracker.ods
+Zenhub Link for Issue tracker: https://github.com/prmudgal/documentManagement/blob/master/Issue_Tracker.ods#boards?repos=62089412
 
 FINAL PRESENTATION: https://github.com/prmudgal/documentManagement/blob/opensource/MaProDMS_Presentation.odp
