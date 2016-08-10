@@ -10,7 +10,11 @@ This document contains the instructions to install the required softwares, deplo
 
 
 
-PROJECT DESCRIPTION: This project is a document Management System where the users are able to login with their login credentials, can upload the documents and once they are uploaded, the documents are stored in the repository. Later the user can see the complete list of documents they have uploaded and they have the facility to download the documents on their local systems.
+PROJECT DESCRIPTION: This project is a document Management System where the the user can navigate through system with proper authentication/authorization in place, and can leverage facilities like uploading/retrieving and downloading documents. 
+This project scope covers following  :
+a) Upload documents.
+b) Retrieve Meta-Data List of documents
+c) Download documents.
 
 Author: Priyanka Mudgal
 
