@@ -18,7 +18,7 @@ c) Download documents
 
 Author: Priyanka Mudgal
 
-PROJECT NAME: Document Management System
+PROJECT NAME:MaProDMS (Document Management System)
 
 CONTACT INFORMATION: pmudgal@pdx.edu
 
